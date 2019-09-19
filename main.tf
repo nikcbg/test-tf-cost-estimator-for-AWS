@@ -17,6 +17,6 @@ resource "aws_instance" "example" {
 }
 
 output "public_dns" {
-  value = aws_instance.example.public_dns
+  value = aws_instance.example[count.index]
 }
 
