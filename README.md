@@ -20,6 +20,8 @@
   - if no issues you can apply the changes by clicking the apply button under the plan window.
   - after it is done you can check your AWS console to see if the EC2 instance was created.
   - check this link [tf-cost.png](tf-cost.png) to see a screenshot of the cost estimation in TF Cloud.
+  ![](tf-cost.png)
+  
 
 ### How to destroy resources from TFE UI
 - To destroy the EC2 instance you just created in AWS, you need to do the following:
