@@ -3,7 +3,7 @@
 ### Purpose of the repsoitory
 - Example of cost estimator in TF Cloud by creating Ubuntu 18 machine in AWS. 
 
-### List of files files in respository.
+### List of files in the respository.
 - main.tf - file with terraform configuration code.
 
 ### How to use this repository
