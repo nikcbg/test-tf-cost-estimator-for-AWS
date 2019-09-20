@@ -19,8 +19,11 @@
   - this will trigger a plan run in TF Cloud which you can watch in TF workspace that is link to this repo unders runs
   - if no issues you can apply the changes by clicking the apply button under the plan window.
   - after it is done you can check your AWS console to see if the EC2 instance was created.
-  - check this link [tf-cost.png](tf-cost.png) to see a screenshot of the cost estimation in TF Cloud.
+  - see the screenshot of the cost estimation in TF Cloud.
+  
+  
   ![](tf-cost.png)
+  
   
 
 ### How to destroy resources from TFE UI
