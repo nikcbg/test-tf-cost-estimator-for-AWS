@@ -31,4 +31,3 @@
    - the name of the variable has to be `CONFIRM_DESTROY` and the value set to `1`.
  - Next go to `Settings` and choose `Destruction and Delition` on the bottom of the drop-down menu.
  - Next click on `Queueing a destroy Plan ` and you can watch how the EC2 instance it's been destroyed.
- 
