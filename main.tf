@@ -19,4 +19,8 @@ output "public_dns" {
   value = aws_instance.example.public_dns
 }
 
-resource "null_resource" "n" {}
+resource "null_resource" "example" {
+triggers = {
+some_name = "${timestamp()}"
+ }
+}
